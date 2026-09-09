@@ -14,7 +14,7 @@
 
 **速界(SuJie)** VPN专注于高稳定、低延迟的企业级 IEPL 专线机场，致力于为全球用户提供极致流畅的网络体验。我们采用端到端独享 IEPL 国际专线链路，不经过公共互联网，从根本上杜绝拥塞与 QoS 干扰，确保数据包以最优路径传输。
 
-- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**等等
+- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等等
 - 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
 - **全局负载均衡、动态加速**
 - 晚高峰不限速，敏感期间不影响使用
@@ -45,5 +45,6 @@
 - [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
 - [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+
 > **免责声明**
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。

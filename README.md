@@ -2,7 +2,7 @@
 
 # 速界(SuJie)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/sujie) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/sujie) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 速界（SuJie）主打 IEPL 机场订阅，常见叫法包括“SuJie VPN”“速界梯子”和“速界机场”。可将订阅导入兼容客户端，再使用其中的代理节点；选择时可先按预算与用量筛选方案，再核对本地线路表现。
 

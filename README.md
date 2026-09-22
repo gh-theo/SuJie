@@ -11,7 +11,7 @@
 >
 > - **最低门槛**：单月试用 ¥15，50GB/月；年付体验包 ¥90，折合 ¥7.5/月。
 > - **核心特点**：页面将端到端 IEPL、原生 IP 节点和多平台客户端兼容列为主要特点。
-> - **优惠与场景**：页面列有 8 折码，适合继续核对流媒体、AI 与日常连接需求。
+> - **优惠与场景**：新客首次体验可用 8 折码，适合继续核对流媒体、AI 与日常连接需求。
 >
 > [查看套餐与优惠](#sujie-vpn-plans) · [查看高峰测试图](#sujie-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
@@ -43,7 +43,7 @@
 
 > [!TIP]
 >
-> - **开业8折折扣码**：`sujie888`
+> - **新客首次体验 8 折优惠码**：`sujie888`
 > - **新手建议**：短期体验选**单月试用15元**，轻度使用选**极速版**，日常流媒体与 AI 工具推荐**超速版 / 光速版**。
 >
 
@@ -97,5 +97,7 @@
 - [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 工具使用指南](https://eoht.net/ai/summary)
 - [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
 
 > 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
